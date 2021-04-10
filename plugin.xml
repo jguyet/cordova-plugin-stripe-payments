@@ -16,8 +16,8 @@
     <engines>
       <engine name="cordova" version=">=7.1.0"/>
       <engine name="cordova-android" version=">=7.1.0"/>
-      <!-- If installing on Cordova IOS 5.0, make sure to add
       <preference name="SwiftVersion" value="4.1" />
+      <!-- If installing on Cordova IOS 5.0, make sure to add
       to your config.xml under the ios platform section.
       If installing on Cordova iOS < 5.0, you need to add cordova-plugin-add-swift-support
       to your project and specify <preference name="UseSwiftLanguageVersion" value="4" />
